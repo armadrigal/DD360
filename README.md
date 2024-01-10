@@ -4,6 +4,9 @@
 <img src="https://media.licdn.com/dms/image/D561BAQFclBZ5cHfabA/company-background_10000/0/1659378391537/dd360_cover?e=1705485600&v=beta&t=1kVG74i2Ak-8nQIapIlD7IrBtJC5RI5TISQ1SDkYKFU"  width=600 height=200>
 </p>
 
+### Autor: Armando Madrigal
+#
+
 ### Reto obligatorio:
 ●	Con el archivo listings.csv, construye un módulo en python que nos permita preguntarle cualquier cosa al data set. 
 ○	Ejemplo: ¿Cuál es el precio promedio de los departamentos en venta?
