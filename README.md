@@ -19,6 +19,10 @@
 ○	El archivo se llama liquidity_challenge
 #
 
+## Soluciones
+Las soluciones estan en los archivos: Reto_1.ipynb y Reto_2.ipynb
+#
+
 ## Archivos en Google Colab
 
 - [Todos los archivos](https://drive.google.com/drive/folders/1i94beFvy_sRUnxipae3nKqLAH0dlqfPd)
